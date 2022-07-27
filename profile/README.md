@@ -9,7 +9,7 @@ Actually, this organization is in a fresh new start and we're still defining the
 :space_invader: **Join our [Discord Channel!](https://discord.gg/TY8Bw9Eb)**
 
 ### Repos ###
-TO BE DEFINED
+**TO BE DEFINED**
 
 
 🌈 ### Contribution guidelines ### -
