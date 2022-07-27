@@ -4,7 +4,16 @@
 
 Embedded Warriors is a public, non-profit organization dedicated to the teaching and learning of embedded systems.
 
-🌈 Contribution guidelines - how can the community get involved? - **TO BE DEFINED**
+Actually, this organization is in a fresh new start and we're still defining the development scope.
+
+:space_invader: **Join our [Discord Channel!](https://discord.gg/TY8Bw9Eb)**
+
+### Repos ###
+TO BE DEFINED
+
+
+🌈 ### Contribution guidelines ### -
+how can the community get involved? - **TO BE DEFINED**
 
 
 <!--
